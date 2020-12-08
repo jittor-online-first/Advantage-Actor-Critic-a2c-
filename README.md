@@ -1,4 +1,4 @@
-# Advantage-Actor-Critic-a2c-
+# Advantage Actor Critic (a2c)
 
 Jittor online first version of A2C implementation
 
